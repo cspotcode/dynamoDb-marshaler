@@ -37,7 +37,7 @@
   },
   "dependencies": {
     "babel-runtime": "^5.8.29",
-    "dispatch-recursive": "^1.0.2",
+    "dispatch-recursive": "github:cspotcode/dispatch-recursive#ed4bc0ca9c6e695d98da999f1c9717e5bb3a0b54",
     "lodash": "^4.17.21"
   },
   "engines": {
