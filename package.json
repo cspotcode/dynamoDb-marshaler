@@ -38,9 +38,12 @@
   "dependencies": {
     "babel-runtime": "^5.8.29",
     "dispatch-recursive": "^1.0.2",
-    "lodash": "^3.10.1"
+    "lodash": "^4.17.21"
   },
   "engines": {
     "node": ">=0.10.33"
+  },
+  "volta": {
+    "node": "10.24.1"
   }
 }
